@@ -1,0 +1,14 @@
+.Register{
+    border-radius: 15% 20% 25% !important;
+}
+
+
+
+
+@media only screen and (max-width: 992px) {
+    .Register{
+        width: 320px;
+        border-radius: 20% 20% 20% !important;
+    }
+ 
+  }
